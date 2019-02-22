@@ -14,7 +14,7 @@ composer require hanson/chinese:dev-master
 <?php
 require_once __DIR__.'/../vendor/autoload.php';
 
-use Hanson\Simplified\Chinese;
+use Hanson\Chinese\Chinese;
 
 $text = '中國人中国人123abc';
 
